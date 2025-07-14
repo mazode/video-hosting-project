@@ -1,0 +1,11 @@
+{
+  "name": "video-hosting-project",
+  "version": "1.0.0",
+  "description": "A video hosting web app that lets you login, signup, upload videos, like or dislike them and a lot more features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mazode",
+  "license": "ISC"
+}
